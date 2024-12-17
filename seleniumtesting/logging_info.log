@@ -1,0 +1,7 @@
+2024-11-20 18:55:42,304 - seleniumtesting.logging_test - INFO - Logger is created as info
+2024-11-20 18:55:42,305 - seleniumtesting.logging_test - WARNING - seeing warning!
+2024-11-20 18:55:42,305 - seleniumtesting.logging_test - ERROR - An error occured
+2024-11-20 19:20:59,803 - seleniumtesting.logging_test - INFO - Logger is created as info
+2024-11-20 19:20:59,803 - seleniumtesting.logging_test - WARNING - seeing warning!
+2024-11-20 19:20:59,804 - seleniumtesting.logging_test - ERROR - An error occured
+2024-11-20 19:20:59,804 - seleniumtesting.logging_test - CRITICAL - Critical
